@@ -1,1 +1,4 @@
-primeiro repositorio no GitHub
+git status
+git add .
+git commit -m "primeiro commit"
+git push
